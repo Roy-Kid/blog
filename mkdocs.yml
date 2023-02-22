@@ -1,0 +1,36 @@
+site_name: Roy's Secret Garden
+
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  language: en
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Roy-Kid
+      name: Roy's Github
