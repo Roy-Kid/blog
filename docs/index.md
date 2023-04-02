@@ -1,5 +1,7 @@
 # Welcome to Roy' Secret Garden!
 
+<!--sidebar:aboutme-->
+
 > Il faut cultiver notre jardin -- Candide
 
 Greetings, travelers! Welcome to my humble corner of the internet. I am Roy Kid, an adventurer in the world of academia. Please, take a moment to rest your weary feet and peruse my latest discoveries and musings. Perhaps we can even embark on a quest of knowledge together!
@@ -10,10 +12,4 @@ Prior to joining Zhang's Group, I earned my Master's degree from the University 
 
 I am passionate about coding and maintaining open-source projects, which allow me to make meaningful contributions to the wider community while also refining my programming abilities. Currently, I am currently developing a tool called [MolPy](https://github.com/Roy-Kid/molpy) with the aim of creating a versatile and efficient front-end for computational chemistry calculations. The goal is to provide researchers with an versitile and flexible data-structure that can help them streamline their workflows and enhance their scientific productivity. I believe that `MolPy` has the potential to benefit a wide range of research projects in computational chemistry. In addition to developing `MolPy`, I am also working on an interactive molecular visualization called [MolVis](https://github.com/Roy-Kid/molvis) that will allow researchers to visualize and inspect system structures in on-the-fly and manipulate the view by terminal and command-line. This complementary tool will provide users a way to visualize the models generated in `MolPy`.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roy-Kid&show_icons=true&theme=gruvbox&hide=Jupyter%20Notebook" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roy-Kid&show_icons=true&theme=gruvbox" />
-</a>
 
