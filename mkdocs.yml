@@ -1,7 +1,13 @@
 site_name: Roy's Secret Garden
 
+repo_name: Roy-Kid
+repo_url: https://github.com/Roy-Kid
+
 theme:
   name: material
+
+  icon:
+    repo: fontawesome/brands/github
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"

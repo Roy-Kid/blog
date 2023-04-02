@@ -1,8 +1,6 @@
 # Welcome to Roy' Secret Garden!
 
-<!--sidebar:aboutme-->
-
-> Il faut cultiver notre jardin -- Candide
+> <div style="font-family: 'Copperplate', sans-serif;">Il faut cultiver notre jardin -- Candide</div>
 
 Greetings, travelers! Welcome to my humble corner of the internet. I am Roy Kid, an adventurer in the world of academia. Please, take a moment to rest your weary feet and peruse my latest discoveries and musings. Perhaps we can even embark on a quest of knowledge together!
 
