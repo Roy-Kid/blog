@@ -34,6 +34,21 @@ theme:
     - navigation.tabs
     - header.autohide
 
+plugins:
+    - awesome-pages:
+        filename: .index
+        collapse_single_pages: true
+        strict: false
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -47,3 +62,5 @@ nav:
     - Home: 
       - Welcome: index.md
       - Curriculum Vitae: cv.md
+
+    - ...

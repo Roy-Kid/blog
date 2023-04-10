@@ -1,0 +1,7 @@
+Welcome to my new column. I will be sharing tips and tricks on using Pybind11. Pybind11 is a lightweight header-only library that enables seamless interoperability between Python and C++. It provides a simple and efficient way to expose C++ classes, functions, and templates to Python, and vice versa. 
+
+In this column, while assuming that you are familiar with the basic usage of pybind11, I will be delving deeper into its intricacies and providing practical tips on how to use it efficiently. Whether you are a seasoned C++ developer looking to integrate Python into your workflow or a Python developer seeking to optimize performance-critical code, this column will have something for you. 
+
+Some of the topics I will cover include how to expose C++ classes and functions to Python, how to handle exceptions and errors, how to deal with memory management, and how to use Pybind11 with NumPy arrays. I will also explore more advanced topics such as multithreading, serialization, and integrating with third-party libraries. 
+
+By the end of this column, you will have a solid understanding of Pybind11 and the confidence to use it in your own projects. Let's get started on this exciting journey together!
