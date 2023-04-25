@@ -10,7 +10,6 @@ In this brand new column, I will delve into the realm of modern Python engineeri
 - Dependency and package management
 - Continuous integration and deployment
 
-
 Through this column, you will learn how to apply best practices in Python projects and how to build high-quality, maintainable, and scalable applications using Python. We will explore how to simplify the engineering process with Python tools and frameworks, helping you manage and organize your code more effectively.
 
 This column is suitable for all Python developers, whether you are a beginner or an experienced developer. We will start with the basics and gradually delve into more advanced topics, allowing you to gain a comprehensive understanding of Python engineering and practical skills. If you want to apply Python in real-world scenarios or improve your Python skills, then this column is a must-read.
