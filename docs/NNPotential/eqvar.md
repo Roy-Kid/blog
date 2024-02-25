@@ -1,6 +1,6 @@
 # Invariances and Equivariances
 
-We hope our model is generalized and it can reflect the real physics. For example, no matter where a molecule is and how they are oriented, the total energy should same. This is called translational and rotational invariance. Also, the output of model should not change with the sequence of your input, that calls permutation invariance. Invariance means a property not changed with respect to some transformation. Some properties do change with other transformations, let's say, the dipole of molecule would change with rotation. This is called equivariance. By using *informal* mathematics, we can define invariance and equivariance as follows:
+ For example, no matter where a molecule is and how they are oriented, the total energy should same. This is called translational and rotational invariance. Also, the output of model should not change with the sequence of your input, that calls permutation invariance. Invariance means a property not changed with respect to some transformation. Some properties do change with other transformations, let's say, the dipole of molecule would change with rotation. This is called equivariance. By using *informal* mathematics, we can define invariance and equivariance as follows:
 
 $$
     f(g(x)) = f(x) \quad \text{invariance} \\
